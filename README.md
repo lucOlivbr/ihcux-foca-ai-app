@@ -17,4 +17,4 @@ A ideia foi deixar a interface simples e sem poluição visual pra não causar a
 
 ## Escolha de Componentes
 
-Usamos slider pro tempo de foco porque é mais rápido que digitar um número. Os toggles no bloqueio de apps deixam mais fácil de ver o que tá ativo ou não. Cada tela tem só um botão principal pra não confundir o usuário na hora de decidir o que fazer.
+Usei slider pro tempo de foco porque é mais rápido que digitar um número. Os toggles no bloqueio de apps deixam mais fácil de ver o que tá ativo ou não. Cada tela tem só um botão principal pra não confundir o usuário na hora de decidir o que fazer.
